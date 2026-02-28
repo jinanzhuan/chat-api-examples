@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@easemob/chatsdk": "1.11.0"
+    "@easemob/chatsdk": "1.11.1"
   },
   "devDependencies": {},
   "dynamicDependencies": {}
